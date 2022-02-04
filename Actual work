@@ -1,1 +1,4 @@
 
+function getURLHttpSimpleLoad() {
+  return getServerURL(https://ckr01.wfpsb.org)
+  
